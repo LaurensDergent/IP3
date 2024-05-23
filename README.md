@@ -1,3 +1,6 @@
+See USER MANUAL.docx
+
+
 IP 3: Predicting production and attraction of zones based on POI's and population density with an xgBoost model.
 Description of the project
 
